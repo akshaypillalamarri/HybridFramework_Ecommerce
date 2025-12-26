@@ -80,20 +80,4 @@ Akshay Pillalamarri
 Automation Engineer | Java | Selenium | CI/CD
 
 
----
 
-### **Step 2: Push it to GitHub**
-Once you save the file, send it to your repository so recruiters can see it on the front page.
-
-1.  **Open Terminal**.
-2.  Run:
-    ```bash
-    git add README.md
-    git commit -m "Added Project Documentation"
-    git push
-    ```
-
-**Go check your GitHub link.** You will see your beautiful documentation right on the homepage!
-
----
-````
